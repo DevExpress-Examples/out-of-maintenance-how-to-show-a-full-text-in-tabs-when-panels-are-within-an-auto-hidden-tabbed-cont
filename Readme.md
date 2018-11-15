@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))**
+<!-- default file list end -->
 # How to show a full text in tabs when panels are within an auto-hidden tabbed container
 
 
